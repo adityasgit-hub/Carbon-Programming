@@ -1,10 +1,10 @@
-// In Carbon, let is used as a constant.
+// In Carbon, 'let' is defined for constants.
 
 package sandbox api;
 
 fn OutputText() {
     let greet: String = "Hello World!";
-    // greet = "Hi! Aditya"; // if we uncomment this line of code, then the program will show us an error as we cannot change the value of constants.
+    // greet = "Hi! Aditya"; // this will show us an error as we cannot change the value of a constant.
     Print(greet);
 }
 
