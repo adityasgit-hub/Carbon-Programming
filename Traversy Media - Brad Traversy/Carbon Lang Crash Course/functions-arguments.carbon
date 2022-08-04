@@ -5,6 +5,6 @@ fn Add(x: i32, y: i32) -> i32 {
 }
 
 fn Main() -> i32 {
-    Print("22 + 8 = {0}", Add(22, 8));
-    return Add(5, 7);
+    Print("3 + 9 = {0}", Add(3, 9));
+    return Add(25, 17);
 }
