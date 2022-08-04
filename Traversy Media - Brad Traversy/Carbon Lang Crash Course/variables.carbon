@@ -2,7 +2,7 @@ package sandbox api;
 
 fn OutputText() {
     var greet: String = "Hello World!";
-    greet = "Hi! Aditya";
+    greet = "Hello! Aditya";
     Print(greet);
 }
 
