@@ -7,7 +7,7 @@ fn OutputText() {
 }
 
 fn Main() -> i32 {
-    var x: auto = true; // we can have any data type in variable 'x', the compiler will automatically detect the type as we have declared the type to 'auto'.
+    var x: auto = true; // we can have any value in the variable 'x', the compiler will automatically detect the type of our data as we have declared the type to 'auto'.
     OutputText();
     return 0;
 }
