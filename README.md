@@ -1,3 +1,3 @@
-<h2>Carbon Programming</h2>
+<h2>Carbon Lang</h2>
 
 <p>An experimental successor of C++</p>
